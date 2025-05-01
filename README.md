@@ -1,6 +1,6 @@
 # Ex.4 Deployment and configuration of a Private Cloud  in AWS
-## NAME: MOHAMMED PARVEZ S
-## REG NO: 212223040113
+## NAME: VISWA PRAKAASH N J
+## REG NO: 212223040246
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
